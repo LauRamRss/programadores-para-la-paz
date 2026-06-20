@@ -1,5 +1,11 @@
-El uso responsable de la información en internet está muy relacionado con la participación ciudadana, porque cuando compartimos contenido verificado contribuimos a una sociedad mejor informada y evitamos la propagación de noticias falsas. Ser un ciudadano digital responsable significa pensar antes de compartir, verificar las fuentes y entender que nuestras acciones en línea tienen un impacto real en otras personas.
+El uso responsable de la información en internet está muy relacionado con la participación ciudadana,
+porque cuando compartimos contenido verificado contribuimos a una sociedad mejor informada y evitamos la propagación de noticias falsas.
+Ser un ciudadano digital responsable significa pensar antes de compartir, verificar las fuentes y 
+entender que nuestras acciones en línea tienen un impacto real en otras personas.
 
-Por otro lado, la organización del trabajo técnico con herramientas como Git también refleja estos mismos valores: orden, transparencia y responsabilidad. Git permite llevar un control claro de los cambios realizados, documentar el proceso y trabajar de forma colaborativa sin perder información importante.
+Por otro lado, la organización del trabajo técnico con herramientas como Git también refleja estos mismos valores: orden,
+transparencia y responsabilidad. Git permite llevar un control claro de los cambios realizados, documentar 
+el proceso y trabajar de forma colaborativa sin perder información importante.
 
-En conjunto, estas tres ideas muestran que la tecnología no es solo una herramienta técnica, sino también un espacio donde se construyen hábitos éticos y de buena convivencia digital.
+En conjunto, estas tres ideas muestran que la tecnología no es solo una herramienta técnica,
+sino también un espacio donde se construyen hábitos éticos y de buena convivencia digital.
